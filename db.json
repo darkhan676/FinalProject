@@ -1,0 +1,126 @@
+{
+  "POST": [
+    {
+      "email": "dara@mail.ru",
+      "password": "777DARAa!!",
+      "id": 1
+    },
+    {
+      "email": "hellocanyouheareme@mail.ru",
+      "password": "999YesIcanHearU!",
+      "id": 2
+    },
+    {
+      "name": "name",
+      "email": "dmakyzhan02@mail.ru",
+      "password": "8KATARAa8!",
+      "id": 3
+    },
+    {
+      "name": "name",
+      "email": "ddddddd@gmail.com",
+      "password": "qwerty123Q",
+      "id": 4
+    },
+    {
+      "name": "name",
+      "email": "ddddddd@gmail.com",
+      "password": "8KATARAa8!",
+      "id": 5
+    }
+  ],
+  "historyName": [
+    {
+      "name": "Napaleon",
+      "year": 1769,
+      "country": "France"
+    },
+    {
+      "name": "Mahatma Gandhi",
+      "year": 1869,
+      "country": "India"
+    },
+    {
+      "name": "Winston Churchill",
+      "year": 1874,
+      "country": "England"
+    },
+    {
+      "name": "Martin Luther King Jr",
+      "year": 1929,
+      "country": "USA"
+    },
+    {
+      "name": "Nelson Mandela",
+      "year": 1918,
+      "country": "South Africa"
+    }
+  ],
+  "wars": [
+    {
+      "name": "World War II",
+      "year": 1939,
+      "country": "World"
+    },
+    {
+      "name": "The Second Sino-Japanese War",
+      "year": 1937,
+      "country": "China-Japan"
+    },
+    {
+      "name": "The Qing Dynasty Conquest of the Ming Dynasty",
+      "year": 1618,
+      "country": "China"
+    },
+    {
+      "name": "Taiping Rebellion",
+      "year": 1850,
+      "�ountry": " Qing Dynasty-Christian millenarian movement of the Taiping Heavenly Kingdom"
+    },
+    {
+      "name": "World War I",
+      "year": 1914,
+      "country": "World"
+    }
+  ],
+  "HistoryPeriod": [
+    {
+      "name": "Modern history",
+      "year": "1500-present"
+    },
+    {
+      "name": "Early Modern",
+      "year": "1500-1700"
+    },
+    {
+      "name": "Late Modern",
+      "year": "1750-1950"
+    },
+    {
+      "name": "Contemporary",
+      "year": "1945-present"
+    }
+  ],
+  "TheFirstHumans": [
+    {
+      "name": "Homo habilis",
+      "year": "2.4-1.4 mill.ago"
+    },
+    {
+      "name": "Homo rudolfensis",
+      "year": "1.9-1.8 mill.ago"
+    },
+    {
+      "name": "Homo erectus",
+      "year": "1.89-110,000 ago"
+    },
+    {
+      "name": "Neanderthals",
+      "year": "2 mill.ago"
+    },
+    {
+      "name": "Denisovans",
+      "year": "2 mill.ago"
+    }
+  ]
+}
